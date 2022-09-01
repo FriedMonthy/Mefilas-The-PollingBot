@@ -1,7 +1,7 @@
 const discord = require('discord.js')
 const client = new discord.Client()
 
-const token = 'NzY5MDIyNTQxODk2NzQ0OTgw.G4w7_d.9v9QIheuAt8LqCbNKKUHoDGTHypo1wSqU_Xcjk'
+const token = 'YOUR TOKEN HERE'
 
 const PREFIX = '?'
 
