@@ -57,11 +57,11 @@ client.on('message', async message => {
 
     switch(args[0]){
         case 'whoismefilas':
-             message.reply('Alien Mefilas is The Seijin,who appeared in Ultraman Eps 33,and in this server,he is our First PollingBot')
+             message.reply('Alien Mefilas is an alien or Seijin ,who appeared in Ultraman Eps 33.')
         break;
     
         case 'whocreatedbotmefilas':
-             message.reply('I created by GOD Monthy/Monthy#2006')
+             message.reply('I created by GOD Monthy/Monthy#2006/@friedmonthy')
             break;
     
         case 'info':
